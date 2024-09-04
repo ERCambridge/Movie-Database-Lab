@@ -1,0 +1,7 @@
+C:\Users\Ethan\workspace\Lab_Repos\Movie_Database_Lab\Movie-Database-Lab\bin\Debug\Movie-Database-Lab.exe.config
+C:\Users\Ethan\workspace\Lab_Repos\Movie_Database_Lab\Movie-Database-Lab\bin\Debug\Movie-Database-Lab.exe
+C:\Users\Ethan\workspace\Lab_Repos\Movie_Database_Lab\Movie-Database-Lab\bin\Debug\Movie-Database-Lab.pdb
+C:\Users\Ethan\workspace\Lab_Repos\Movie_Database_Lab\Movie-Database-Lab\obj\Debug\Movie-Database-Lab.csproj.AssemblyReference.cache
+C:\Users\Ethan\workspace\Lab_Repos\Movie_Database_Lab\Movie-Database-Lab\obj\Debug\Movie-Database-Lab.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\workspace\Lab_Repos\Movie_Database_Lab\Movie-Database-Lab\obj\Debug\Movie-Database-Lab.exe
+C:\Users\Ethan\workspace\Lab_Repos\Movie_Database_Lab\Movie-Database-Lab\obj\Debug\Movie-Database-Lab.pdb
